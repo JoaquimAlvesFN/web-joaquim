@@ -11,15 +11,12 @@ Utilize o VSCode, já está configurado com sugestão de extensões.
 * React Router
 * Material UI (UI Framework)
 
-### Iniciando um novo projeto
+### Iniciando o projeto
 
 ```bash
 git clone [repo]
-yarn install # ou npm install
 
-node ./init.js
+yarn install # ou npm install
 
 yarn start # Não utilizar o docker
 ```
-
-### Para mais informações veja a pasta ./docs
