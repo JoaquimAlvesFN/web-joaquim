@@ -1,0 +1,11 @@
+{
+  "project": "web-joaquim",
+  "repository": "https://github.com/JoaquimAlvesFN/web-joaquim.git",
+  "endpointDev": "http://localhost:3000",
+  "endpointProd": "",
+  "dockerImage": "waproject/web-joaquim",
+  "dockerCredentials": "",
+  "sentryDsn": "",
+  "confirmed": true,
+  "slug": "web-joaquim"
+}
